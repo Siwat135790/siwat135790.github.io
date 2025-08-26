@@ -3,7 +3,10 @@
 
 <body onload="startTime()">
 
-<h2>JavaScript Clock</h2>
+<h1>Siwat Tamnongdee</h1>
+<h2> Pee  - No.26 </h2>
+<h3>Surathumppitak school</h3>
+
 
 <div id="txt"></div>
 
